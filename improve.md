@@ -15,6 +15,7 @@
 <img src="images/game02.png" alt="">
 
 
+
 ## Issues
 
 ### The quadratic curve on the beam dis not properly work when I put in to the game

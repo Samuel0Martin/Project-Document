@@ -1,28 +1,16 @@
-#Project 1
+## <a href="index">Return to index</a>
 
-##Samuel
+### I created a particle that follows a path
+### I followed this tutorial in order to get it working
+### <a href="https://www.youtube.com/watch?v=tZ5dSmsggFc&list=PLpPd_BKEUoYh40LeJXTgA6E53gCMPq3MX&index=16">https://www.youtube.com/watch?v=tZ5dSmsggFc&list=PLpPd_BKEUoYh40LeJXTgA6E53gCMPq3MX&index=16</a>
 
+## Image 01
 
-### Adding a cross hair
-<a href="banana">Home</a>
-     - [Dependencies Title](#index) 
+### I created a path that will go around a cylinder
+### This is what the path looks like in unity.
+<img src="images/path01.png" alt="">
 
-### Fire Effect
-aaa
+## Image 02
 
-### Rain Particle Effect
-aaa
-### LaserBeam 01
-
-### Path Following
-
-### Quadratic Curve
-
-### Sine Wave
-
-### LaserBeam - Tower Defence Tutorial
-
-### LaserBeam 02
-
-### Add LaserBeam to game
-
+### I made a particle that will follow this path
+<img src="images/path02.png" alt="">

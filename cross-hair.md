@@ -2,7 +2,7 @@
 
 ### I Added a basic cross hair in to the game
 ### I followed this tutorial in order to get it working
-### link
+### <a href="https://www.youtube.com/watch?v=y9TaleFxoVg">https://www.youtube.com/watch?v=y9TaleFxoVg</a>
 
 ## Image 01
 
@@ -13,3 +13,5 @@
 
 ### Here is what it looks like in game
 <img src="images/reticle01.png" alt="">
+
+### I added a Canvas and centered an image of a reticle image on it in order to create a cross hair in the center of the screen.

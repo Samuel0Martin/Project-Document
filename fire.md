@@ -7,12 +7,12 @@
 ## Image 01
 
 ### This is the shader graph node editor for the creating of the fire effect 
-<img src="images/fire02.png" alt="">
+<img src="images/Fire02.png" alt="">
 
 ## Image 02
 
 ### Here is what it looks like in game
-<img src="images/fire01.png" alt="">
+<img src="images/Fire01.png" alt="">
 
 
 ## Solutions to errors
