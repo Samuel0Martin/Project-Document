@@ -3,17 +3,12 @@
 ## By Samuel Martin
 
 
-### Adding a cross hair
-<a href="cross-hair">Cross Hair</a>
-
 ### <a href="cross-hair">Adding a cross hair</a>
 
+### <a href="fire">Fire Effect</a>
 
-### Fire Effect
-<a href="fire">Fire</a>
+### <a href="rain">Rain Particle Effect</a>
 
-### Rain Particle Effect
-<a href="rain">Rain</a>
 
 ### LaserBeam 01
 <a href="laser">Laser</a>
