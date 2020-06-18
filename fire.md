@@ -7,12 +7,12 @@
 ## Image 01
 
 ### This is the shader graph node editor for the creating of the fire effect 
-<img src="images/reticle02.png" alt="">
+<img src="images/fire02.png" alt="">
 
 ## Image 02
 
 ### Here is what it looks like in game
-<img src="images/reticle01.png" alt="">
+<img src="images/fire01.png" alt="">
 
 
 ## Solutions to errors
@@ -23,6 +23,7 @@
 ### I followed a guide from this link to get it working  
 ### <a href="https://answers.unity.com/questions/1455530/shader-graph-option-missing.html">https://answers.unity.com/questions/1455530/shader-graph-option-missing.html</a>
 ### This issue was that shader graph was not installed and I needed to download a package to install it.
+
 
 ### When I was creating the fire shader graph I disovered that there was an error where the render pipeline was not compatible with the node
 ### So I followed this guide to get it to work
