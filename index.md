@@ -1,8 +1,10 @@
-#Project
+#Project 1
+
 ##Samuel
 
 
 ### Adding a cross hair
+<a href="index.md">Home</a>
 
 ### Fire Effect
 
