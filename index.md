@@ -1,6 +1,6 @@
-#Project 1
+# Project 1 Document
 
-##Samuel
+## By Samuel Martin
 
 
 ### Adding a cross hair
