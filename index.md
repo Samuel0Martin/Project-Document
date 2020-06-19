@@ -10,7 +10,7 @@
 ### <a href="rain">Rain Particle Effect</a>
 
 
-### <a href="laser">LaserBeam 01</a>
+### <a href="beam01">LaserBeam 01</a>
 
 
 ### <a href="path">Path Following</a>
@@ -25,7 +25,7 @@
 ### <a href="improve">LaserBeam - Improvements</a>
 
 
-### <a href="laser2">LaserBeam 02</a>
+### <a href="beam02">LaserBeam 02</a>
 
 
 ### <a href="game">Add LaserBeam to game</a>

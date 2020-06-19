@@ -1,8 +1,5 @@
 ## <a href="index">Return to index</a>
 
-### I Added a basic cross hair in to the game
-### I followed this tutorial in order to get it working
-### link
 
 ## Image 01
 
@@ -15,7 +12,7 @@
 <img src="images/game02.png" alt="">
 
 ### I added this in when the player leaves the pause menu the cursor will be locked to the center of the screen. 
-<img src="images/game04.png" alt="">
+<img src="images/game04.PNG" alt="">
 
 ## Issues
 

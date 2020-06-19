@@ -11,6 +11,11 @@
 
 ## Image 02
 
+### This is the texture I used for  
+<img src="images/Fire03.png" alt="">
+
+## Image 03
+
 ### Here is what it looks like in game
 <img src="images/Fire01.png" alt="">
 

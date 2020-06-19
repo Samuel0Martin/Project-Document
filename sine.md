@@ -1,8 +1,9 @@
 ## <a href="index">Return to index</a>
 
 ### I created a sine wave for the beam to follow
-### I followed this tutorial in order to get it working
-### <a href="https://www.youtube.com/watch?v=glSsaRpHKos">https://www.youtube.com/watch?v=glSsaRpHKos</a>
+### I followed this tutorial expanding from the quadratic curve in order to get it working
+### <a href="https://www.youtube.com/watch?v=aAGkn0ETFX4">https://www.youtube.com/watch?v=aAGkn0ETFX4</a>
+
 
 ## Image 01
 
