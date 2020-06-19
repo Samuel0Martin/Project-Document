@@ -8,5 +8,6 @@
 ## Image 01
 
 ### This is what the sine wave looks like when the beam is used.
+### The sine wave did not work properly with the beam so I did not end up using it.
 <img src="images/sine01.png" alt="">
 

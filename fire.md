@@ -11,8 +11,8 @@
 
 ## Image 02
 
-### This is the texture I used for  
-<img src="images/Fire03.png" alt="">
+### This is the texture I used for the fire effect
+<img src="images/fire03.png" alt="">
 
 ## Image 03
 

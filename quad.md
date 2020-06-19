@@ -16,12 +16,12 @@
 <img src="images/quad05.png" alt="">
 
 
-## Solutions to errors
+### Solutions to errors
 
 
 ## Image 03
 
-### There was an issue that I had where a game object for point 2 (center point) that would multiply every time it was called.
+### There was an issue that I had where a game object for point 2 (center point) that would multiply every time it was called and create a new 'New Game Object'.
 ### This would lead to the game taking up excess resources
 
 <img src="images/quad03.png" alt="">
@@ -41,5 +41,5 @@
 ## Image 05
 
 ### The beam would remain behind after the player releases the mouse button before adding the hide code above.
-<img src="images/quad04.PNG" alt="">
+<img src="images/quad04.png" alt="">
 

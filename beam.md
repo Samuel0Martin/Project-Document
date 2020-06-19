@@ -11,5 +11,10 @@
 
 ## Image 02
 
-### This is the texture I used for the beam 
+### This is the texture I used for the beam.
 <img src="images/beam02.png" alt="">
+
+## Image 03
+
+### This is how the beam look in game.
+<img src="images/beam03.png" alt="">

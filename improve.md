@@ -12,14 +12,19 @@
 
 ## Image 01
 
-### 
+### The beam will follow the target when the target moves
 <img src="images/improve01.png" alt="">
 
 ## Image 02
 
-### Here is what it looks like in game
+### The beam will bend using the quadratic curve and be locked on to the target
+### I added a glow effect where the target will create a light when it is hit by the beam.
 <img src="images/improve02.png" alt="">
 
+### Issues that were fixed
 
+## Image 03
 
+### The beam would before not properly be locked on to the target and would clip through the target.
+<img src="images/improve03.png" alt="">
 
