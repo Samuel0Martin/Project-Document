@@ -26,5 +26,6 @@
 ## Image 03
 
 ### The beam would before not properly be locked on to the target and would clip through the target.
+### This can be seen in the above images
 <img src="images/improve03.png" alt="">
 
