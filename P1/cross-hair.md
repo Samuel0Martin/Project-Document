@@ -1,4 +1,4 @@
-## <a href="index">Return to project 1 index</a>
+## <a href="project1">Return to project 1 index</a>
 
 ### I Added a basic cross hair in to the game
 ### I followed this tutorial in order to get it working
