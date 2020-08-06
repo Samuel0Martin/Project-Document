@@ -3,7 +3,7 @@
 ## By Samuel Martin
 
 
-## <a href="./index">Return to index</a>
+## <a href="../index">Return to index</a>
 
 ### <a href="cross-hair">Adding a cross hair</a>
 
