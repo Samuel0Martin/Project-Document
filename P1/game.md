@@ -1,4 +1,4 @@
-## <a href="index">Return to index</a>
+## <a href="project1">Return to project 1 index</a>
 
 
 ## Image 01

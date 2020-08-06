@@ -1,4 +1,4 @@
-## <a href="project1">Return to index</a>
+## <a href="project1">Return to project 1 index</a>
 
 ### I created a fire effect using a shader graph to visualise the effect of fire
 ### I followed this tutorial in order to get it working

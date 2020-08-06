@@ -1,4 +1,4 @@
-## <a href="index">Return to index</a>
+## <a href="index">Return to project 1 index</a>
 
 ### I created a beam effect using a line renderer and a shader graph material
 ### I followed this tutorial in order to get it working

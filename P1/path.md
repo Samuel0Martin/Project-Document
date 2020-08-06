@@ -1,4 +1,4 @@
-## <a href="index">Return to index</a>
+## <a href="project1">Return to project 1 index</a>
 
 ### I created a particle that follows a path
 ### I followed this tutorial in order to get it working

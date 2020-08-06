@@ -1,4 +1,4 @@
-## <a href="index">Return to index</a>
+## <a href="project1">Return to project 1 index</a>
 
 ### I created a sine wave for the beam to follow
 ### I followed this tutorial expanding from the quadratic curve in order to get it working

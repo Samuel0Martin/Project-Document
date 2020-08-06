@@ -1,4 +1,4 @@
-## <a href="index">Return to index</a>
+## <a href="project1">Return to project 1 index</a>
 
 ### I working on improving the basic functionallity of the beam
 ### I followed this tutorial and used it to improve the functionallity of the beam (line renderer)

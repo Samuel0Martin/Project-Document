@@ -1,4 +1,4 @@
-## <a href="index">Return to index</a>
+## <a href="project1">Return to project 1 index</a>
 
 ### I created a rain effect to visualise the effect of rain falling
 ### I followed this tutorial in order to get it working
