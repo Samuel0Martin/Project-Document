@@ -1,19 +1,43 @@
 ### I created a particle system to simulate the effect of snow falling.
-### I followed this tutorial
+### I followed this tutorial..............
 ### <a href=""></a>
 
 ## Image 01
 
-###
-<img src="images/snow01.png" alt="">
+### Here is the area where the snow particles fall.
+<img src="images/snow01.PNG" alt="">
 
 ## Image 02
 
-### 
-<img src="images/snow02.png" alt="">
+### Here is what the snow particles look like.
+<img src="images/snow02.PNG" alt="">
+
+
+## Image 03
+
+### This image shows how the snow effect looks like in game.
+<img src="images/snow03.png" alt="">
+
+
+## Image 04
+
+### Here is the script I used to start and stop the snow.
+### The snow is started when the player enters the trigger area,
+### And is stopped when the player leaves the trigger.
+<img src="images/snow04.PNG" alt="">
 
 
 
 ## Solutions to errors
 
-### aa
+### Finding a way to start & stop the snow
+
+### I used a trigger that is set off when they player walks into it.
+### This trigger is located at the top of the hill at a high elevation.
+<img src="images/snowtrigger.PNG" alt="">
+
+
+### The snow particles are only located on one corner of the map.
+### Increasing the range of the particles would result in:
+### there being fewer snow particles falling around the player
+### And increasing the amount of particles to account for this would have a huge negative effect on the games performance.
