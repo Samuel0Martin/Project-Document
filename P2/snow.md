@@ -1,6 +1,6 @@
 ### I created a particle system to simulate the effect of snow falling.
-### I followed this tutorial..............
-### <a href=""></a>
+### I followed this tutorial to create the snow particles.
+### <a href="https://www.youtube.com/watch?v=b8oVAS9IdZM">https://www.youtube.com/watch?v=b8oVAS9IdZM</a>
 
 ## Image 01
 
@@ -34,8 +34,11 @@
 
 ### I used a trigger that is set off when they player walks into it.
 ### This trigger is located at the top of the hill at a high elevation.
-<img src="images/snowtrigger.PNG" alt="">
+<img src="images/SnowTrigger.PNG" alt="">
 
+
+### I found this article to help create the trigger event.
+### <a href="https://docs.unity3d.com/ScriptReference/Collision-gameObject.html">https://docs.unity3d.com/ScriptReference/Collision-gameObject.html</a>
 
 ### The snow particles are only located on one corner of the map.
 ### Increasing the range of the particles would result in:

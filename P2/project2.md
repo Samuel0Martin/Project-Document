@@ -19,7 +19,7 @@
 
 ### <a href="overcloud">Overcloud</a>
 
-### <a href="rain_effects">Rain Effects</a>
+### <a href="rain_effects">Rain Effects</a>--
 
 ### <a href="blood_effect">Blood Effect</a>
 
@@ -30,3 +30,5 @@
 ### <a href="update">Update Game</a>
 
 ### <a href="menu">Menu</a>
+
+### <a href="reflection">Personal Reflection</a>

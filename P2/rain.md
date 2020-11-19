@@ -1,4 +1,6 @@
 ### I created a particle system to simulate the effect of rain falling.
+### I followed this tutorial to create the rain particles.
+### <a href="https://www.youtube.com/watch?v=Ph3FvxJJ8AA">https://www.youtube.com/watch?v=Ph3FvxJJ8AA</a>
 
 ## Image 01
 

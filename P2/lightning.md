@@ -1,4 +1,7 @@
 ### I created a particle system to simulate the effect of lightning.
+### I followed this tutorial to create the lightning particles.
+### <a href="https://www.youtube.com/watch?v=ewC_c6aHbf8">https://www.youtube.com/watch?v=ewC_c6aHbf8</a>
+
 
 ## Image 01
 
