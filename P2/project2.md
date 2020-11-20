@@ -1,4 +1,4 @@
-# Project 1 Document
+# Project 2 Document
 
 ## By Samuel Martin
 
