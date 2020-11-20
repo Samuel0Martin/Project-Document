@@ -7,17 +7,17 @@
 ## Image 01
 
 ### Default size of the clouds.
-<img src="images/rain01.png" alt="">
+<img src="images/clouds01.png" alt="">
 
 ## Image 02
 
 ### Here is how the clouds look like when it is raining or snowing.
-<img src="images/rain02.png" alt="">
+<img src="images/clouds02.png" alt="">
 
 ## Image 03
 
 ### Code for increasing the size of the clouds
-<img src="images/cloud-script.png" alt="">
+<img src="images/cloud-script.PNG" alt="">
 
 
 

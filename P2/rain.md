@@ -7,7 +7,7 @@
 ## Image 01
 
 ### Rain Particles.
-<img src="images/rain01.png" alt="">
+<img src="images/rain01.PNG" alt="">
 
 ## Image 02
 
@@ -17,7 +17,7 @@
 ## Image 03
 
 ### Code for determining the intensity of the rain.
-<img src="images/rain-script.png" alt="">
+<img src="images/rain-script.PNG" alt="">
 
 
 
