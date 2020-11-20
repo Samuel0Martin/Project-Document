@@ -1,3 +1,5 @@
+## <a href="project2">Return to project 2 index</a>
+
 ### Greying out options in the menu that are not fully implemented yet
 
 ## Image

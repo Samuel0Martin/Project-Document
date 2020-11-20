@@ -1,3 +1,5 @@
+## <a href="project2">Return to project 2 index</a>
+
 ### I created a particle system to simulate the effect of lightning.
 ### I followed this tutorial to create the lightning particles.
 ### <a href="https://www.youtube.com/watch?v=ewC_c6aHbf8">https://www.youtube.com/watch?v=ewC_c6aHbf8</a>
@@ -5,12 +7,13 @@
 
 ## Image 01
 
-###
+### Here is what the lightning particle looks like.
 <img src="images/lightning01.png" alt="">
 
 ## Image 02
 
-### 
+### This is the in game lightning effect.
+### The lightning has an effect when it hit the ground seen in the image.
 <img src="images/lightning02.png" alt="">
 
 
